@@ -2,7 +2,7 @@
 
 .button-outline {
   position: relative;
-  z-index: 2;
+  z-index: 0;
   color: inherit;
   background-color: transparent;
   border-radius: var(--border-radius);
@@ -50,4 +50,3 @@
 }
 
 @import 'basscss-defaults';
-
